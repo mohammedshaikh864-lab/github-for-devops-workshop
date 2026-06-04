@@ -8,3 +8,6 @@ git remove -v= to check git remote origin status
 git push -u origin master / git push origin master = to push tracked to github
 git clone (URL) =  to clone a repository
 git pull origin master = to pull commits made on external repo
+git branch = to check branches
+git branch (branch name) = to create a new branches
+git switch (branch name) = to switch to that perticular branch
