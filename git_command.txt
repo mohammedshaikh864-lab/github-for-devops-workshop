@@ -3,3 +3,4 @@ git add. = to add all the files from untracked to staged mode
 git add (filename) = to add a perticular file from untracked to staged mode
 git commit -m "message" = to move the file from staged mode to tracked(added to git)
 git restore filename = to restore a deleted file
+#if git push doesn`t work, then create a token from github profile>accessibility> developer setting > token(classic) & then enter git remote set-url origin https://(token)@(git link)
