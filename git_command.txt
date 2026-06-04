@@ -7,3 +7,4 @@ git restore filename = to restore a deleted file
 git remove -v= to check git remote origin status
 git push -u origin master / git push origin master = to push tracked to github
 git clone (URL) =  to clone a repository
+git pull origin master = to pull commits made on external repo
